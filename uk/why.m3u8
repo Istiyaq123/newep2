@@ -1,5 +1,7 @@
 #EXTM3U
 #EXTINF:1270,pok_tv_s0603_2398-master-en.m3u8
+#EXTVLCOPT:file-caching=1000
 pok_tv_s0603_2398-master-en.m3u8
 #EXTINF:1273,pok_tv_s0604_2398-master-en.m3u8
+#EXTVLCOPT:file-caching=1000
 pok_tv_s0604_2398-master-en.m3u8
